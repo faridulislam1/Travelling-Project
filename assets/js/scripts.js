@@ -1,8 +1,4 @@
-/*
-Author       : Syed Ekram.
-Template Name: Viaje - Tour & Travel Agency Template
-Version      : 1.0
-*/
+
 (function($) {
 	'use strict';
 	
