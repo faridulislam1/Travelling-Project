@@ -1,31 +1,4 @@
-/*
-Author       : Masum Billah.
-Template Name: Voyage - Tour & Travel Agency Template
-Version      : 1.0
-*/
-/*=============================================================
-    CSS INDEX
-    =============================
-    01. GENERAL STYLE (body, link color, section-title, preloader btn, overlay, section-padding etc)
-    02. START BOOTSTRAP NAVIGATION OVERRIDES
-    03. START HOME DESIGN
-    04. START SERVICE DESIGN
-    05. START WHY CHOOSE DESIGN
-    06. START SPECIAL PACKAGE DESIGN
-    07. START TOP DEALS DESIGN
-    08. START DEALS & DISCOUNT DESIGN
-    09. START GALLERY DESIGN
-    10. START BLOG DESIGN
-    11. START TESTIMONIAL DESIGN
-    12. START COMPANY PARTNER LOGO
-    13. START CONTACT DESIGN
-    14. START FOOTER DESIGN
-  =============================================================*/
-/*
-* ----------------------------------------------------------------------------------------
-* 01.GENERAL STYLE
-* ----------------------------------------------------------------------------------------
-*/
+
 body {
 	color: #727272;
 	font-family: 'Open Sans', sans-serif;
